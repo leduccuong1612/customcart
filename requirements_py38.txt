@@ -17,7 +17,7 @@ Pillow==3.1.2
 psutil==5.7.0
 pyodbc==4.0.30
 pyOpenSSL==19.1.0
-requests==2.9.1
+requests==2.20.0
 sendgrid==6.3.1
 urllib3==1.13.1
 web.py==0.51
