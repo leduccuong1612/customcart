@@ -1,5 +1,5 @@
 pycurl==7.43.0
-lxml==4.5.1
+lxml==4.6.2
 beautifulsoup4==4.4.1
 chardet==2.3.0
 configparser==5.0.0
