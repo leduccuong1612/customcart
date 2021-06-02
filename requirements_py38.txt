@@ -19,7 +19,7 @@ pyodbc==4.0.30
 pyOpenSSL==19.1.0
 requests==2.9.1
 sendgrid==6.3.1
-urllib3==1.13.1
+urllib3==1.26.5
 web.py==0.51
 xmltodict==0.12.0
 zeep==3.4.0
