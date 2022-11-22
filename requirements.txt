@@ -19,7 +19,7 @@ pyodbc==4.0.25
 packaging==19.1
 chardet==2.3.0
 grequests==0.4.0
-Pillow==3.1.2
+Pillow==9.3.0
 zeep==3.4.0
 pyOpenSSL==19.1.0
 ndg-httpsclient==0.5.1
